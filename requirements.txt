@@ -1,0 +1,13 @@
+Python==3.7.4
+Flask==1.1.1
+Werkzeug==0.16.0
+Jinja2==2.10.3
+MarkupSafe==1.1.1
+click==7.0
+itsdangerous==1.1.0
+numpy==1.18.1
+pandas==0.25.3
+joblib==0.14.1
+scikit-learn==0.22.1
+scipy==1.4.1
+sklearn==0.0
